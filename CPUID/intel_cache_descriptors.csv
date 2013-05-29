@@ -1,0 +1,96 @@
+00;GENERAL;Null Descriptor, this byte contains no information
+01;TLB;Instruction TLB: 4-KB Pages, 4-way set associative, 32 entries
+02;TLB;Instruction TLB: 4-MB Pages, fully associative, 2 entries
+03;TLB;Data TLB: 4-KB Pages, 4-way set associative, 64 entries
+04;TLB;Data TLB: 4-MB Pages, 4-way set associative, 8 entries
+05;TLB;Data TLB: 4-MB Pages, 4-way set associative, 32 entries
+06;CACHE;1st-level instruction cache: 8-KB, 4-way set associative, 32-byte line size
+08;CACHE;1st-level instruction cache: 16-KB, 4-way set associative, 32-byte line size
+09;CACHE;1st-level Instruction Cache: 32-KB, 4-way set associative, 64-byte line size
+0A;CACHE;1st-level data cache: 8-KB, 2-way set associative, 32-byte line size
+0B;TLB;Instruction TLB: 4-MB pages, 4-way set associative, 4 entries
+0C;CACHE;1st-level data cache: 16-KB, 4-way set associative, 32-byte line size
+0D;CACHE;1st-level Data Cache: 16-KB, 4-way set associative, 64-byte line size
+0E;CACHE;1st-level Data Cache: 24-KB, 6-way set associative, 64-byte line size
+21;CACHE;2nd-level cache: 256-KB, 8-way set associative, 64-byte line size
+22;CACHE;3rd-level cache: 512-KB, 4-way set associative, sectored cache, 64-byte line size
+23;CACHE;3rd-level cache: 1-MB, 8-way set associative, sectored cache, 64-byte line size
+25;CACHE;3rd-level cache: 2-MB, 8-way set associative, sectored cache, 64-byte line size
+29;CACHE;3rd-level cache: 4-MB, 8-way set associative, sectored cache, 64-byte line size
+2C;CACHE;1st-level data cache: 32-KB, 8-way set associative, 64-byte line size
+30;CACHE;1st-level instruction cache: 32-KB, 8-way set associative, 64-byte line size
+40;CACHE;No 2nd-level cache or, if processor contains a valid 2nd-level cache, no 3rd-level cache
+41;CACHE;2nd-level cache: 128-KB, 4-way set associative, 32-byte line size
+42;CACHE;2nd-level cache: 256-KB, 4-way set associative, 32-byte line size
+43;CACHE;2nd-level cache: 512-KB, 4-way set associative, 32-byte line size
+44;CACHE;2nd-level cache: 1-MB, 4-way set associative, 32-byte line size
+45;CACHE;2nd-level cache: 2-MB, 4-way set associative, 32-byte line size
+46;CACHE;3rd-level cache: 4-MB, 4-way set associative, 64-byte line size
+47;CACHE;3rd-level cache: 8-MB, 8-way set associative, 64-byte line size
+48;CACHE;2nd-level cache: 3-MB, 12-way set associative, 64-byte line size, unified on-die
+49;CACHE;3rd-level cache: 4-MB, 16-way set associative, 64-byte line size (Intel Xeon processor MP,Family 0Fh, Model 06h) 2nd-level cache: 4-MB, 16-way set associative, 64-byte line size
+4A;CACHE;3rd-level cache: 6-MB, 12-way set associative, 64-byte line size
+4B;CACHE;3rd-level cache: 8-MB, 16-way set associative, 64-byte line size
+4C;CACHE;3rd-level cache: 12-MB, 12-way set associative, 64-byte line size
+4D;CACHE;3rd-level cache: 16-MB, 16-way set associative, 64-byte line size
+4E;CACHE;2nd-level cache: 6-MB, 24-way set associative, 64-byte line size
+4F;TLB;Instruction TLB: 4-KB pages, 32 entries
+50;TLB;Instruction TLB: 4-KB, 2-MB or 4-MB pages, fully associative, 64 entries
+51;TLB;Instruction TLB: 4-KB, 2-MB or 4-MB pages, fully associative, 128 entries
+52;TLB;Instruction TLB: 4-KB, 2-MB or 4-MB pages, fully associative, 256 entries
+55;TLB;Instruction TLB: 2-MB or 4-MB pages, fully associative, 7 entries
+56;TLB;L1 Data TLB: 4-MB pages, 4-way set associative, 16 entries
+57;TLB;L1 Data TLB: 4-KB pages, 4-way set associative, 16 entries
+59;TLB;Data TLB0: 4-KB pages, fully associative, 16 entries
+5A;TLB;Data TLB0: 2-MB or 4-MB pages, 4-way associative, 32 entries
+5B;TLB;Data TLB: 4-KB or 4-MB pages, fully associative, 64 entries
+5C;TLB;Data TLB: 4-KB or 4-MB pages, fully associative, 128 entries
+5D;TLB;Data TLB: 4-KB or 4-MB pages, fully associative, 256 entries
+60;CACHE;1st-level data cache: 16-KB, 8-way set associative, sectored cache, 64-byte line size
+66;CACHE;1st-level data cache: 8-KB, 4-way set associative, sectored cache, 64-byte line size
+67;CACHE;1st-level data cache: 16-KB, 4-way set associative, sectored cache, 64-byte line size
+68;CACHE;1st-level data cache: 32-KB, 4 way set associative, sectored cache, 64-byte line size
+70;CACHE;Trace cache: 12K-uops, 8-way set associative
+71;CACHE;Trace cache: 16K-uops, 8-way set associative
+72;CACHE;Trace cache: 32K-uops, 8-way set associative
+76;TLB;Instruction TLB: 2M/4M pages, fully associative, 8 entries
+78;CACHE;2nd-level cache: 1-MB, 4-way set associative, 64-byte line size
+79;CACHE;2nd-level cache: 128-KB, 8-way set associative, sectored cache, 64-byte line size
+7A;CACHE;2nd-level cache: 256-KB, 8-way set associative, sectored cache, 64-byte line size
+7B;CACHE;2nd-level cache: 512-KB, 8-way set associative, sectored cache, 64-byte line size
+7C;CACHE;2nd-level cache: 1-MB, 8-way set associative, sectored cache, 64-byte line size
+7D;CACHE;2nd-level cache: 2-MB, 8-way set associative, 64-byte line size
+7F;CACHE;2nd-level cache: 512-KB, 2-way set associative, 64-byte line size
+80;CACHE;2nd-level cache: 512-KB, 8-way set associative, 64-byte line size
+82;CACHE;2nd-level cache: 256-KB, 8-way set associative, 32-byte line size
+83;CACHE;2nd-level cache: 512-KB, 8-way set associative, 32-byte line size
+84;CACHE;2nd-level cache: 1-MB, 8-way set associative, 32-byte line size
+85;CACHE;2nd-level cache: 2-MB, 8-way set associative, 32-byte line size
+86;CACHE;2nd-level cache: 512-KB, 4-way set associative, 64-byte line size
+87;CACHE;2nd-level cache: 1-MB, 8-way set associative, 64-byte line size
+B0;TLB;Instruction TLB: 4-KB Pages, 4-way set associative, 128 entries
+B1;TLB;Instruction TLB: 2-MB pages, 4-way, 8 entries or 4M pages, 4-way, 4 entries
+B2;TLB;Instruction TLB: 4-KB pages, 4-way set associative, 64 entries
+B3;TLB;Data TLB: 4-KB Pages, 4-way set associative, 128 entries
+B4;TLB;Data TLB: 4-KB Pages, 4-way set associative, 256 entries
+BA;TLB;Data TLB: 4-KB Pages, 4-way set associative, 64 entries
+C0;TLB;Data TLB: 4-KB or 4-MB Pages, 4-way set associative, 8 entries
+CA;STLB;Shared 2nd-level TLB: 4 KB pages, 4-way set associative, 512 entries
+D0;CACHE;3rd-level cache: 512-kB, 4-way set associative, 64-byte line size
+D1;CACHE;3rd-level cache: 1-MB, 4-way set associative, 64-byte line size
+D2;CACHE;3rd-level cache: 2-MB, 4-way set associative, 64-byte line size
+D6;CACHE;3rd-level cache: 1-MB, 8-way set associative, 64-byte line size
+D7;CACHE;3rd-level cache: 2-MB, 8-way set associative, 64-byte line size
+D8;CACHE;3rd-level cache: 4-MB, 8-way set associative, 64-byte line size
+DC;CACHE;3rd-level cache: 1.5-MB, 12-way set associative, 64-byte line size
+DD;CACHE;3rd-level cache: 3-MB, 12-way set associative, 64-byte line size
+DE;CACHE;3rd-level cache: 6-MB, 12-way set associative, 64-byte line size
+E2;CACHE;3rd-level cache: 2-MB, 16-way set associative, 64-byte line size
+E3;CACHE;3rd-level cache: 4-MB, 16-way set associative, 64-byte line size
+E4;CACHE;3rd-level cache: 8-MB, 16-way set associative, 64-byte line size
+EA;CACHE;3rd-level cache: 12-MB, 24-way set associative, 64-byte line size
+EB;CACHE;3rd-level cache: 18-MB, 24-way set associative, 64-byte line size
+EC;CACHE;3rd-level cache: 24-MB, 24-way set associative, 64-byte line size
+F0;PREFETCH;64-byte Prefetching
+F1;PREFETCH;128-byte Prefetching
+FF;GENERAL;CPUID Leaf 2 does not report cache descriptor information, use CPUID Leaf 4 to query cache parameters

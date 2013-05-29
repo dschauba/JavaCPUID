@@ -1,0 +1,32 @@
+0;SSE3;Streaming SIMD Extensions 3;The processor supports the Streaming SIMD Extensions 3 instructions
+1;PCLMULDQ;Instruction The processor supports PCLMULDQ instruction
+2;DTES64;64-Bit Debug Store;Indicates that the processor has the ability to write a history of the 64-bit branch to and from addresses into a memory buffer
+3;MONITOR;MONITOR/MWAIT;The processor supports the MONITOR and MWAIT instructions
+4;DS-CPL;CPL Qualified Debug Store;The processor supports the extensions to the Debug Store feature to allow for branch message storage qualified by CPL
+5;VMX;Virtual Machine Extensions;The processor supports Intel® Virtualization Technology
+6;SMX;Safer Mode Extensions;The processor supports Intel® Trusted Execution Technology
+7;EIST;Enhanced Intel SpeedStep® Technology The processor supports Enhanced Intel SpeedStep Technology and implements the IA32_PERF_STS and IA32_PERF_CTL registers
+8;TM2;Thermal Monitor 2;The processor implements the Thermal Monitor 2 thermal control circuit (TCC)
+9;SSSE3;Supplemental Streaming SIMD Extensions 3 The processor supports the Supplemental Streaming SIMD Extensions 3 instructions
+10;CNXT-ID;L1 Context ID;The L1 data cache mode can be set to either adaptive mode or shared mode by the BIOS
+11;Reserved;Do not count on the value
+12;FMA;Fused Multiply Add;The processor supports FMA extensions using YMM state
+13;CX16;CMPXCHG16B;The processor supports the CMPXCHG16B instruction
+14;xTPR;xTPR Update Control;The processor supports the ability to disable sending Task Priority messages. When this feature flag is set, Task Priority messages may be disabled. Bit 23 (Echo TPR disable) in the IA32_MISC_ENABLE MSR controls the sending of Task Priority messages
+15;PDCM;Perfmon and Debug Capability;The processor supports the Performance Capabilities MSR. IA32_PERF_CAPABILITIES register is MSR 345h
+16;Reserved;Do not count on the value
+17;PCID;Process Context Identifiers;The processor supports PCIDs and that software may set CR4.PCIDE to 1
+18;DCA;Direct Cache Access;The processor supports the ability to prefetch data from a memory mapped device
+19;SSE4.1;Streaming SIMD Extensions 4.1;The processor supports the Streaming SIMD Extensions 4.1 instructions
+20;SSE4.2;Streaming SIMD Extensions 4.2;The processor supports the Streaming SIMD Extensions 4.2 instructions
+21;x2APIC;Extended xAPIC Support;The processor supports x2APIC feature
+22;MOVBE;MOVBE Instruction;The processor supports MOVBE instruction
+23;POPCNT;POPCNT Instruction;The processor supports the POPCNT instruction
+24;TSC-DEADLINE;Time Stamp Counter Deadline;The processor’s local APIC timer supports one-shot operation using a TSC deadline value
+25;AES;AES Instruction Extensions;The processor supports the AES instruction extensions
+26;XSAVE;XSAVE/XSTOR States;The processor supports the XSAVE/XRSTOR processor extended states feature, the XSETBV/XGETBV instructions, and the XFEATURE_ENABLED_MASK register (XCR0)
+27;OSXSAVE;OS-Enabled Extended State Management;A value of 1 indicates that the OS has enabled XSETBV/XGETBV instructions to access the XFEATURE_ENABLED_MASK register (XCR0), and support for processor extended state management using XSAVE/XRSTOR
+28;AVX;Advanced Vector Extensions;The processor supports the AVX instruction extensions
+29;F16C;16-bit floating-point conversion instructions;A value of 1 indicates that the processor supports 16-bit floating-point conversion instructions
+30;RDRAND;RDRAND instruction supported;A value of 1 indicates that processor supports RDRAND instruction
+31;Not Used;Always returns 0

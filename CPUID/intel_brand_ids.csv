@@ -1,0 +1,21 @@
+00;Unsupported
+01;Intel® Celeron® processor
+02;Intel® Pentium® III processor
+03;Intel® Pentium® III Xeon® processor If processor signature = 000006B1h, then Intel® Celeron® processor
+04;Intel® Pentium® III processor
+06;Mobile Intel® Pentium® III processor-M
+07;Mobile Intel® Celeron® processor
+08;Intel® Pentium® 4 processor
+09;Intel® Pentium® 4 processor
+0A;Intel® Celeron® Processor
+0B;Intel® Xeon® processor If processor signature = 00000F13h, then Intel® Xeon® processor MP
+0C;Intel® Xeon® processor MP
+0E;Mobile Intel® Pentium® 4 processor–M If processor signature = 00000F13h, then Intel® Xeon® processor
+0F;Mobile Intel® Celeron® processor
+11;Mobile Genuine Intel® processor
+12;Intel® Celeron® M processor
+13;Mobile Intel® Celeron® processor
+14;Intel® Celeron® Processor
+15;Mobile Genuine Intel® processor
+16;Intel® Pentium® M processor
+17;Mobile Intel® Celeron® processo

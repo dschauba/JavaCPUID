@@ -1,0 +1,1 @@
+0;LAHF;LAHF / SAHF;A value of 1 indicates the LAHF and SAHF instructions are available when the IA-32e mode is enabled and the processor is operating in the 64-bit sub-mode

@@ -1,0 +1,50 @@
+00000000;0000;00;0100;000x;xxxx;Intel486™ DX processors
+00000000;0000;00;0100;0010;xxxx;Intel486 SX processors
+00000000;0000;00;0100;0011;xxxx;Intel487™ processors
+00000000;0000;00;0100;0011;xxxx;IntelDX2™ processors
+00000000;0000;00;0100;0011;xxxx;IntelDX2 OverDrive® processors
+00000000;0000;00;0100;0100;xxxx;Intel486 SL processor
+00000000;0000;00;0100;0101;xxxx;IntelSX2™ processors
+00000000;0000;00;0100;0111;xxxx;Write-Back Enhanced IntelDX2 processors
+00000000;0000;00;0100;1000;xxxx;IntelDX4™ processors
+00000000;0000;0x;0100;1000;xxxx;IntelDX4 OverDrive processors
+00000000;0000;00;0101;0001;xxxx;Pentium® processors(60, 66)
+00000000;0000;00;0101;0010;xxxx;Pentium processors (75, 90,100, 120, 133, 150, 166,200)
+00000000;0000;01;0101;0001;xxxx;Pentium OverDrive processor for Pentium processor (60,66)
+00000000;0000;01;0101;0010;xxxx;Pentium OverDrive processor for Pentium processor (75,90, 100, 120, 133)
+00000000;0000;01;0101;0011;xxxx;Pentium OverDrive processors for Intel486 processor-based systems
+00000000;0000;00;0101;0100;xxxx;Pentium processor with MMX™ technology (166,200)
+00000000;0000;01;0101;0100;xxxx;Pentium OverDrive processor with MMX™ technology for Pentium processor (75, 90,100, 120, 133)
+00000000;0000;00;0110;0001;xxxx;Pentium Pro processor
+00000000;0000;00;0110;0011;xxxx;Pentium II processor, model 03
+00000000;0000;00;0110;0101;xxxx;Pentium II processor, model 05, Pentium II Xeon processor, model 05, and Intel® Celeron® processor,model 05
+00000000;0001;00;0110;0101;xxxx;Intel EP80579 Integrated Processor and Intel EP80579 Integrated Processor with Intel QuickAssist Technology
+00000000;0000;00;0110;0110;xxxx;Celeron processor, model 06
+00000000;0000;00;0110;0111;xxxx;Pentium III processor, model 07, and Pentium III Xeon processor, model 07
+00000000;0000;00;0110;1000;xxxx;Pentium III processor, model 08, Pentium III Xeon processor, model 08, and Celeron processor, model 08
+00000000;0000;00;0110;1001;xxxx;Intel Pentium M processor,Intel Celeron M processor model 09
+00000000;0000;00;0110;1010;xxxx;Pentium III Xeon processor, model 0Ah
+00000000;0000;00;0110;1011;xxxx;Pentium III processor, model 0Bh
+00000000;0000;00;0110;1101;xxxx;Intel Pentium M processor,Intel Celeron M processor,model 0Dh. All processors are manufactured using the 90 nm process
+00000000;0000;00;0110;1110;xxxx;Intel Core™ Duo processor,Intel Core™ Solo processor,model 0Eh. All processors are manufactured using the 65 nm process.
+00000000;0000;00;0110;1111;xxxx;Intel Core™2 Duo processor,Intel Core™2 Duo mobile processor, Intel Core™2 Quad processor, Intel Core™2 Quad mobile processor, Intel Core™2 Extreme processor, Intel Pentium Dual-Core processor, Intel Xeon processor, model 0Fh. All processors are manufactured using the 65 nm process
+00000000;0001;00;0110;0110;xxxx;Intel Celeron processor model 16h. All processors are manufactured using the 65 nm process
+00000000;0001;00;0110;0111;xxxx;Intel Core™2 Extreme processor, Intel Xeon processor, model 17h. All processors are manufactured using the 45 nm process
+00000000;0000;01;0110;0011;xxxx;Intel Pentium II OverDrive processor
+00000000;0000;00;1111;0000;xxxx;Pentium 4 processor, Intel Xeon processor. All processors are model 00h and manufactured using the 0.18 micron process.
+00000000;0000;00;1111;0001;xxxx;Pentium 4 processor, Intel Xeon processor, Intel Xeon processor MP, and Intel Celeron processor. All processors are model 01h and manufactured using the 0.18 micron process
+00000000;0000;00;1111;0010;xxxx;Pentium 4 processor, Mobile Intel Pentium 4 processor –M, Intel Xeon processor, Intel Xeon processor MP, Intel Celeron processor, and Mobile Intel Celeron processor. All processors are model 02h and manufactured using the 0.13 micron process
+00000000;0000;00;1111;0011;xxxx;Pentium 4 processor, Intel Xeon processor, Intel Celeron D processor. All processors are model 03h and manufactured using the 90 nm process
+00000000;0000;00;1111;0100;xxxx;Pentium 4 processor, Pentium 4 processor Extreme Edition, Pentium D processor, Intel Xeon processor, Intel Xeon processor MP, Intel Celeron D processor. All processors are model 04h and manufactured using the 90 nm process
+00000000;0000;00;1111;0110;xxxx;Pentium 4 processor, Pentium D processor, Pentium processor Extreme Edition, Intel Xeon processor, Intel Xeon processor MP, Intel Celeron D processor. All processors are model 06h and manufactured using the 65 nm process
+00000000;0001;00;0110;1100;xxxx;Intel Atom processor. All processors are manufactured using the 45 nm process
+00000000;0001;00;0110;1010;xxxx;Intel Core i7 processor and Intel Xeon processor. All processors are manufactured using the 45 nm process
+00000000;0001;00;0110;1101;xxxx;Intel Xeon processor MP. All processors are manufactured using the 45 nm process
+00000000;0001;00;0110;1110;xxxx;Intel Core i5/i7 processor, Intel Core i5/i7 Mobile processor, and Intel Xeon processor. All processors are manufactured using the 45 nm process
+00000000;0010;00;0110;1110;xxxx;Intel Xeon processor MP. All processors are manufactured using the 45 nm process
+00000000;0010;00;0110;1111;xxxx;Intel Xeon processor MP. All processors are manufactured using the 32 nm process
+00000000;0010;00;0110;1100;xxxx;Intel Core i7 processor and Intel Xeon processor. All processors are manufactured using the 32 nm process
+00000000;0010;00;0110;0101;xxxx;Intel Core i3 processor and Intel Core i5/i7 Mobile processor. All processors are manufactured using the 32 nm process
+00000000;0010;00;0110;1010;xxxx;2nd Generation Intel® Core™ Processor Family Mobile and Desktop and Intel® Xeon® Processor E3-1200 Family based on Intel microarchitecture code name Sandy Bridge and manufactured using the 32 nm process
+00000000;0010;00;0110;1101;xxxx;Intel® Xeon® Processor E5 Family based on Intel microarchitecture code name Sandy Bridge and manufactured using the 32 nm process
+00000000;0011;00;0110;1010;xxxx;3nd Generation Intel® Core™ Processor Family Mobile and Desktop and Intel® Xeon® Processor E3-1200 v2 Family based on Intel microarchitecture code name Sandy Bridge and manufactured using the 22 nm process

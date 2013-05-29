@@ -1,0 +1,5 @@
+29;Intel® 64;Intel® 64 Instruction Set Architecture;The processor supports Intel® 64 Architecture extensions to the IA-32 Architecture. For additional information refer to http://developer.intel.com/technology/architecture-silicon/intel64/index.htm
+27;RDTSCP;RDTSCP and IA32_TSC_AUX;The processor supports RDTSCP and IA32_TSC_AUX
+26;1 GB Pages;1 GB Pages;The processor supports 1-GB pages
+20;XD Bit;Execution Disable Bit;The processor supports the XD Bit when PAE mode paging is enabled
+11;SYSCALL;SYSCALL/SYSRET;The processor supports the SYSCALL and SYSRET instructions

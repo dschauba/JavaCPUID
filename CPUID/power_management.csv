@@ -1,0 +1,6 @@
+6;Package Thermal Management (PTM) capability
+5;Extended Clock Modulation Duty (ECMD) capability
+4;Power Limit Notification (PLN) capability
+2;Always Running APIC Timer (ARAT) capability
+1;Intel® Turbo Boost Technology capability
+0;Digital Thermal Sensor (DTS) capability
